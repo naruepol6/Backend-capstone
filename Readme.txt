@@ -1,4 +1,8 @@
-use python3 manage.py test tests/ to run unittests
+Hi reviewers!
+
+use source myenv/bin/activate to active virtual environment.
+
+use python3 manage.py test tests/ to run unittests.
 
 path
 
@@ -14,4 +18,3 @@ path
 
 /restaurant/booking/tables/
 /restaurant/booking/tables/{bookingId}
-
